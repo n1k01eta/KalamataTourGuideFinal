@@ -1,0 +1,189 @@
+<resources>
+    <string name="app_name">Kalamata Tour Guide</string>
+
+    <string name="location">Location</string>
+
+    <string name="city">The City</string>
+
+    <string name="kalamata">Kalamata</string>
+    <string name="old_town">Old Town</string>
+    <string name="railway">Railway Park</string>
+    <string name="seaside">A Walk on the Seaside</string>
+    <string name="central_square">Central Square</string>
+
+    <string name="must_see">Must See</string>
+
+    <string name="castle">Castle of Isabeau</string>
+    <string name="archaeological_museum">Archaeological Museum of Messenia</string>
+    <string name="costumes_museum">Museum of Traditional Greek Costumes</string>
+    <string name="ancient_messene">Ancient Messene</string>
+    <string name="methoni">Castle of Methoni</string>
+    <string name="towers">Towers of West Mani</string>
+
+    <string name="must_do">Must Do</string>
+
+    <string name="city_biking">City Biking</string>
+    <string name="rafting">Rafting</string>
+    <string name="diving">Scuba Diving</string>
+    <string name="sea_kayaking">Sea Kayaking</string>
+    <string name="hiking">Hiking</string>
+    <string name="horse_riding">Horse Riding</string>
+
+    <string name="must_eat">Must Eat</string>
+
+    <string name="figs">Figs</string>
+    <string name="olive">Olives and Olive Oil</string>
+    <string name="sfela">Sfela Cheese</string>
+    <string name="sausages">Sausages with Orange</string>
+    <string name="lalagia">Lalagia</string>
+    <string name="diples">Diples</string>
+    <string name="pasteli">Pasteli</string>
+
+    <string name="events">Events</string>
+
+
+    <string name="dart_war">Dart War</string>
+    <string name="dance_fest">International Dance Festival</string>
+    <string name="fest_miden">Festival Miden</string>
+
+    <string name="description_city">Between the peaks of Mt Taygetos and the gulf of Messinia, Kalamata
+        dances to a different tune. Kalamata is Messinia’s capital and the second-largest city in the
+        Peloponnese. /n Built on the site of ancient Pharai, Kalamata takes its modern name from a
+        miracle-working icon of the Virgin Mary known as kalo mata (good eye). </string>
+
+    <string name="description_oldtown">The Old Town, the exquisite beautiful region at the foot of the
+        Castle, boasts the Metropolitan Panagia Ipapanti church (1873), the 12th century Kalograion
+        Monastery with the renowned silk weaving workshop, and the Byzantine church Agioi Apostoloi
+        (13th century) with the brick enclosed masonry. The area is the hotspot for the city’s youth,
+        for it is the beating heart of the nightlife in Kalamata and by no means will it be still!</string>
+
+    <string name="description_railway">Blowing the whistle on... The Railway Museum: One of Greece’s
+        first theme parks, its steam locomotives, diesel engines, passenger and freight cars and
+        two-storey central station building make it a treat for kids of ALL ages! \n
+        All aboard for a ride into a bygone era.</string>
+
+    <string name="description_seaside">The seaside road in front of the city’s extensive beach (4 km
+        length with marvellous waters). On the seaside of Kalamata, people can swim in crystal clear
+        waters and enjoy lace-like beaches, which have been granted the Blue Flag award of quality.
+        Along the seaside, there are several tavernas, ouzo restaurants, cafeterias, bars, clubs,
+        whereas beach aficionados can enjoy all kinds of water sports.</string>
+
+    <string name="description_central">The spacious central Vassileos Georgiou (King George) square
+        with many coffee shops, meeting places and strolling venues for residents and visitors. The
+        pedestrian walkway of Aristomenous Street starts here with many stores and coffee shops to
+        populate it.</string>
+
+    <string name="description_castle">The point of reference par excellence in the city of Kalamata
+        is the legendary “castle of Isabeau”. It is amphitheatrically constructed on the site of the
+        Farai acropolis offering a bird’s eye view of the city. Constructed in the 13th century by
+        William Villehardouin, it underwent subsequent additions and conversions by the Venetians and
+        the Turks. Nowadays, it is an ideal open air venue for theatre, music and dance shows.</string>
+
+    <string name="description_archaeological">This partially interactive, child-friendly museum focuses 
+        on treasures found in four regions – Kalamata, Pylia, Messini and Trifylia. Exhibits include 
+        everything from sculpture, pottery and funereal objects found in tholos (Mycenaean tombs shaped 
+        like a beehive) at Nestor's Palace, to Roman mosaics, gold jewellery and votive offerings. 
+        It provides wonderful context to the surrounding areas.</string>
+
+    <string name="description_costume">Opened in 2017, this stunning museum is thanks to one individual,
+        Victoria Karelia, who donated her remarkable collection of Greek costumes to a group known
+        as the "Lyceum of Hellenic Women of Kalamata". Far from moth-eaten old hand-me-downs,
+        the clothing showcases male and female folk dress from the 18th to 20th centuries in beautifully
+        curated, dramatically lit exhibits.</string>
+
+    <string name="description_messene">One of the most significant archaeological sites is Ancient
+        Messene which is located just outside of Mavromati village, 30 km from the center of Kalamata.
+        This is one of the most well-preserved ancient city in Greece, which to this day manages to
+        maintain the prestige of yesteryear, leaving its visitors impressed. The city was named after
+        the mythical Queen Messini, daughter of King Triopios of Argos. The city remained the cultural
+        center of Messinia until 395, when the invasion of the Goths of Alaric gave the decisive
+        blow to the city. </string>
+
+    <string name="descritpion_methoni">Built in 1209 by the Venetians, the castle of Methoni lies at
+        the southernmost point of the Peloponnese and is one of the greatest fortifications in the
+        Mediterranean, occupying an area of about 9.3 hectares. </string>
+
+    <string name="description_towers">Anyone that has heard of Mani brings to mind the impressive and
+        imposing tower houses that have been taken out of the area\'s noble past and constructed with
+        the traditional stone from Mani. West (Messinian) Mani belongs to Messinia. There you will
+        observe these buildings, which are a representation and reflection of each family's power
+        and status in society. </string>
+
+    <string name="description_rafting">Rafting is an activity for all ages where everybody, given
+        that they are physically and mentally healthy can participate. The activity includes a 45
+        minutes preparation time, 2.5 hours river descend, 30 minutes swimming, relaxing, The descents
+        are performed if the conditions (river level) are proper.</string>
+
+    <string name="description_diving">Dive into a magical world with almost zero gravity, where you
+        will encounter a breathtaking seabed that will impress you with abundant colors
+        and unique inhabitants. </string>
+
+    <string name="description_biking">Explore the town of Kalamata on a bike. Opt for this means of
+        transport to wander around the beach, the town center and the town\'s historical center,
+        following in the locals\' footsteps. Get a bike then and scour every corner of the Messinian
+        capital. You should know that Kalamata has a developed bicycle network, so getting around
+        on a bike will be safe. </string>
+
+    <string name="description_kayaking">Sea kayaking is indeed one of our most popular trips offering
+        an inch by inch exploration of the rich in imagery and diversity, lacy coastline of the
+        Messinian Mani. Paddle in warm crystal-clear waters, exploring hidden coves and impressive
+        rock formations. Visit sea caves and discover idyllic beaches sprouted between the fishing
+        villages of the region.</string>
+
+    <string name="description_horse">Escape from the everyday routine and spend your free time
+        visiting the facilities of the Kalamata Riding Club, in the city\'s west coast. It is a
+        modern riding school operated in accordance with European standards and offers basic,
+        sports, free-style, therapeutic riding lesson and it also provides
+        lairage for private horses.</string>
+
+    <string name="description_hiking">The Hellenic Mountaineering Club of Kalamata has been operating
+        since 1993 and organizes various hiking, mountain climbing, rock climbing and ascents on a
+        weekly basis. As a member of the Hellenic Federation of Mountaineering and Climbing it has
+        been approved by the General Secretariat of Sports and has taken the initiative to promote
+        the ecosystem of Mt. Taygetos to that of a National Park. In this natural setting, will learn
+        to love nature during your stay in Kalamata and the wider area.</string>
+
+    <string name="description_war">The war of darts (saitopolemos), which takes us back many centuries,
+        is revived every Easter Sunday evening at 20.30 at the old Slaughterhouses on the west coast
+        of Kalamata.</string>
+
+    <string name="description_dance">Established in 1995, the Kalamata International Dance Festival
+        constitutes the key event of Kalamata\'s International Dance Center. Its purpose is to promote
+        the art of dance through research, education, artistic activities and creativity.</string>
+
+    <string name="description_miden">Festival Miden was the first Greek video art festival to be
+        presented in open public spaces in 2005. Since then it has been gradually established as
+        one of the most successful and interesting festivals in Greece and abroad and constitutes
+        a significant attraction of cultural interest. The events take place in open public spaces
+        in Kalamata\'s historical center in July and the main purpose of the festival is the free
+        presentation, promotion and development of Greek and international
+        video art and new media art.</string>
+
+    <string name="description_figs">Try the “guru” of figs in Kalamata and taste the ancient
+        athletes’ “drug”. It’s a dried fruit with a heap of vitamins and once you’ve had it,
+        it’s going to become your healthy lifestyle companion for life.</string>
+
+    <string name="description_olive">These tiny olives are the ambassadors of Messenia and they are
+        considered to be the world\'s best. They are handpicked during harvest and this is why they
+        preserve the top quality taste and nutritive you’re looking for in your diet.</string>
+
+    <string name="description_sfela">If you like feta cheese, then you should try the saltier member
+        of this cheese family. It’s called Sfela and its nickname is “the feta that’s on fire”.
+        Sfela is a traditional product of Messenia that’s produced from sheep and goat milk,
+        with no other substances or enhancers.</string>
+
+    <string name="description_sausages">Discover an artisan form of sausage that’s made with love
+        in Kalamata. It has a very interesting taste, which is based on its spicy red peppers
+        that are cooled down a bit by the refreshing orange slices.</string>
+
+    <string name="description_lalagia">The lalaggia are the main festive sweet that is prepared and
+        offered during the Christmas period in Messinia. </string>
+
+    <string name="description_diples">Diples is a popular dessert in the whole of the Peloponnese,
+        but the Kalamata version has an extra twist. The talented women of the region thought of
+        adding some refreshing orange zest, which makes a yummy difference.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- list item hight-->
+    <dimen name="item_height">200dp</dimen>
+
+    <!-- Attraction Name text size -->
+    <dimen name="attraction_text_size">16sp</dimen>
+
+    <!-- Small padding or margin -->
+    <dimen name="small_padding">8dp</dimen>
+
+    <!-- padding or margin -->
+    <dimen name="padding">16dp</dimen>
+</resources>
